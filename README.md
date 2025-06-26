@@ -1,6 +1,6 @@
 # FactoryRL 
-FactoryRL 是一個RL應用在工廠製成的項目
-
+FactoryRL 是一個研究 RL 應用在工廠製成調校的項目
+透過RL與監督式模型互動，來取得期望產品的所需參數
 # Model graph
 ![screenshot](images/model_graph.png)
 ![PPT](Injection%20Model%20&%20Actor%20Critic.pdf)
